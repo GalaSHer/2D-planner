@@ -1,14 +1,14 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "2D-planner",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "%PUBLIC_URL%/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
   ],
-  "start_url": ".",
+  "start_url": "/2d-planner/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
