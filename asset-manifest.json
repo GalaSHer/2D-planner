@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/2d-planner/static/css/main.f2bb369f.css",
+    "main.js": "/2d-planner/static/js/main.9ad056c0.js",
+    "index.html": "/2d-planner/index.html",
+    "main.f2bb369f.css.map": "/2d-planner/static/css/main.f2bb369f.css.map",
+    "main.9ad056c0.js.map": "/2d-planner/static/js/main.9ad056c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2bb369f.css",
+    "static/js/main.9ad056c0.js"
+  ]
+}
